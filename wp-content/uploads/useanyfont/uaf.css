@@ -1,0 +1,10 @@
+			@font-face {
+				font-family: 'lato-regular';
+				font-style: normal;
+				src: url('//blog.overnightprints.com/wp-content/uploads/useanyfont/160823033129Lato-Regular.eot');
+				src: local('lato-regular'), url('//blog.overnightprints.com/wp-content/uploads/useanyfont/160823033129Lato-Regular.eot') format('embedded-opentype'), url('//blog.overnightprints.com/wp-content/uploads/useanyfont/160823033129Lato-Regular.woff') format('woff');
+			}
+						body, h1, h2, h3, h4, h5, h6, p, blockquote, li, a{
+					font-family: 'lato-regular' !important;
+				}
+		

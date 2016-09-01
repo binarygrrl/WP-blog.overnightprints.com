@@ -1,0 +1,667 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: instagram-gallery-pro\n"
+"POT-Creation-Date: 2015-07-23 12:46+0530\n"
+"PO-Revision-Date: 2015-07-23 12:46+0530\n"
+"Last-Translator: Weblizar <lizarweb@gmail.com>\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__;_x\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../gallery-for-instagram.php:76
+msgid "Pro Screenshots"
+msgstr ""
+
+#: ../gallery-for-instagram.php:77
+msgid "Help and Support"
+msgstr ""
+
+#: ../gallery-for-instagram.php:78
+msgid "Our Products"
+msgstr ""
+
+#: ../gallery-for-instagram.php:189 ../gallery-for-instagram.php:190
+#: ../gallery-for-instagram.php:201 ../gallery-for-instagram.php:231
+msgid "Instagram Gallery"
+msgstr ""
+
+#: ../gallery-for-instagram.php:191 ../gallery-for-instagram.php:192
+msgid "Add New Instagram"
+msgstr ""
+
+#: ../gallery-for-instagram.php:193
+msgid "Edit Instagram"
+msgstr ""
+
+#: ../gallery-for-instagram.php:194
+msgid "New Instagram"
+msgstr ""
+
+#: ../gallery-for-instagram.php:195
+msgid "View Instagram"
+msgstr ""
+
+#: ../gallery-for-instagram.php:196
+msgid "Search Instagram"
+msgstr ""
+
+#: ../gallery-for-instagram.php:197
+msgid "No Instagram found"
+msgstr ""
+
+#: ../gallery-for-instagram.php:198
+msgid "No Instagram found in Trash"
+msgstr ""
+
+#: ../gallery-for-instagram.php:199
+msgid "Parent Instagram:"
+msgstr ""
+
+#: ../gallery-for-instagram.php:200
+msgid "All Instagram"
+msgstr ""
+
+#: ../gallery-for-instagram.php:232 ../gallery-for-instagram.php:254
+#: ../gallery-for-instagram.php:726
+msgid "Instagram Gallery Shortcode"
+msgstr ""
+
+#: ../gallery-for-instagram.php:233
+msgid "Date"
+msgstr ""
+
+#: ../gallery-for-instagram.php:250
+msgid "Instagram Setting"
+msgstr ""
+
+#: ../gallery-for-instagram.php:251
+msgid "Instragram Profile Settings"
+msgstr ""
+
+#: ../gallery-for-instagram.php:252
+msgid "Instragram Gallery Settings"
+msgstr ""
+
+#: ../gallery-for-instagram.php:253
+msgid "Instragram Other Settings"
+msgstr ""
+
+#: ../gallery-for-instagram.php:268
+msgid "Get Your Instagram Client ID & Access Token "
+msgstr ""
+
+#: ../gallery-for-instagram.php:268
+msgid "Click Here"
+msgstr ""
+
+#: ../gallery-for-instagram.php:270
+msgid "User Id"
+msgstr ""
+
+#: ../gallery-for-instagram.php:275
+msgid "Enter Instagram User Id."
+msgstr ""
+
+#: ../gallery-for-instagram.php:280
+msgid "Access Token"
+msgstr ""
+
+#: ../gallery-for-instagram.php:284
+msgid "Enter Instagram Access Token."
+msgstr ""
+
+#: ../gallery-for-instagram.php:302
+msgid "Show profile"
+msgstr ""
+
+#: ../gallery-for-instagram.php:305
+msgid " yes"
+msgstr ""
+
+#: ../gallery-for-instagram.php:306 ../instagram-setting-metabox.php:108
+msgid " No"
+msgstr ""
+
+#: ../gallery-for-instagram.php:308
+msgid "Select Yes or No for Hide & Show Profile."
+msgstr ""
+
+#: ../gallery-for-instagram.php:309 ../gallery-for-instagram.php:326
+#: ../gallery-for-instagram.php:342 ../gallery-for-instagram.php:356
+#: ../gallery-for-instagram.php:372 ../gallery-for-instagram.php:386
+#: ../gallery-for-instagram.php:402 ../gallery-for-instagram.php:416
+#: ../gallery-for-instagram.php:430 ../gallery-for-instagram.php:444
+#: ../gallery-for-instagram.php:458 ../gallery-for-instagram.php:472
+#: ../gallery-for-instagram.php:486 ../gallery-for-instagram.php:526
+#: ../gallery-for-instagram.php:539 ../gallery-for-instagram.php:554
+#: ../instagram-setting-metabox.php:72 ../instagram-setting-metabox.php:85
+#: ../instagram-setting-metabox.php:98 ../instagram-setting-metabox.php:111
+#: ../instagram-setting-metabox.php:124 ../instagram-setting-metabox.php:137
+#: ../instagram-setting-metabox.php:150 ../instagram-setting-metabox.php:163
+#: ../instagram-setting-metabox.php:180 ../instagram-setting-metabox.php:193
+#: ../instagram-setting-metabox.php:225 ../instagram-setting-metabox.php:238
+msgid "Preview"
+msgstr ""
+
+#: ../gallery-for-instagram.php:316 ../tooltip.php:56
+msgid "Profile Section Background Color"
+msgstr ""
+
+#: ../gallery-for-instagram.php:319
+msgid "None"
+msgstr ""
+
+#: ../gallery-for-instagram.php:320 ../gallery-for-instagram.php:336
+#: ../gallery-for-instagram.php:366 ../gallery-for-instagram.php:396
+#: ../instagram-setting-metabox.php:66
+msgid "Blue"
+msgstr ""
+
+#: ../gallery-for-instagram.php:321 ../gallery-for-instagram.php:337
+#: ../gallery-for-instagram.php:367 ../gallery-for-instagram.php:397
+#: ../instagram-setting-metabox.php:67
+msgid "Red"
+msgstr ""
+
+#: ../gallery-for-instagram.php:322 ../gallery-for-instagram.php:338
+#: ../gallery-for-instagram.php:352 ../gallery-for-instagram.php:368
+#: ../gallery-for-instagram.php:398 ../gallery-for-instagram.php:412
+#: ../instagram-setting-metabox.php:68 ../instagram-setting-metabox.php:81
+#: ../instagram-setting-metabox.php:94
+msgid "White"
+msgstr ""
+
+#: ../gallery-for-instagram.php:323 ../gallery-for-instagram.php:339
+#: ../gallery-for-instagram.php:353 ../gallery-for-instagram.php:369
+#: ../gallery-for-instagram.php:399 ../gallery-for-instagram.php:413
+#: ../instagram-setting-metabox.php:69 ../instagram-setting-metabox.php:82
+#: ../instagram-setting-metabox.php:95
+msgid "Black"
+msgstr ""
+
+#: ../gallery-for-instagram.php:325
+msgid "Select any given color to apply for Profile Section Background Color."
+msgstr ""
+
+#: ../gallery-for-instagram.php:333 ../tooltip.php:61
+msgid "Post Count Background"
+msgstr ""
+
+#: ../gallery-for-instagram.php:341
+msgid "Select any given color to apply for Post Count Background."
+msgstr ""
+
+#: ../gallery-for-instagram.php:349 ../tooltip.php:66
+msgid "Profile Text Color"
+msgstr ""
+
+#: ../gallery-for-instagram.php:355
+msgid "Select any given color to apply for Profile Text Color"
+msgstr ""
+
+#: ../gallery-for-instagram.php:363 ../tooltip.php:71
+msgid "Profile Image Border Color"
+msgstr ""
+
+#: ../gallery-for-instagram.php:371
+msgid "Select any given color to apply for Profile Image Border Color."
+msgstr ""
+
+#: ../gallery-for-instagram.php:379 ../tooltip.php:76
+msgid "Profile Image Size"
+msgstr ""
+
+#: ../gallery-for-instagram.php:385
+msgid "Select Profile Image Size."
+msgstr ""
+
+#: ../gallery-for-instagram.php:393 ../tooltip.php:81
+msgid "Button Background Color"
+msgstr ""
+
+#: ../gallery-for-instagram.php:401
+msgid "Select any given color to apply for Button Backgound Color."
+msgstr ""
+
+#: ../gallery-for-instagram.php:409 ../tooltip.php:86
+msgid "Button Text Color"
+msgstr ""
+
+#: ../gallery-for-instagram.php:415
+msgid "Select any given color to apply for Button Text Color."
+msgstr ""
+
+#: ../gallery-for-instagram.php:423 ../tooltip.php:91
+msgid "Show Profile Image"
+msgstr ""
+
+#: ../gallery-for-instagram.php:429
+msgid "Select Yes/No option to hide or show Profile Image."
+msgstr ""
+
+#: ../gallery-for-instagram.php:437 ../tooltip.php:96
+msgid "Show Follow Button"
+msgstr ""
+
+#: ../gallery-for-instagram.php:443
+msgid "Select Yes/No option to hide or show Follow Button."
+msgstr ""
+
+#: ../gallery-for-instagram.php:451 ../tooltip.php:101
+msgid "Show Post Count"
+msgstr ""
+
+#: ../gallery-for-instagram.php:457
+msgid "Select Yes/No option to hide or show Post Count."
+msgstr ""
+
+#: ../gallery-for-instagram.php:465 ../tooltip.php:106
+msgid "Show Website Link"
+msgstr ""
+
+#: ../gallery-for-instagram.php:471
+msgid "Select Yes/No option to hide or show Website Link."
+msgstr ""
+
+#: ../gallery-for-instagram.php:479 ../tooltip.php:111
+msgid "Show Bio"
+msgstr ""
+
+#: ../gallery-for-instagram.php:485
+msgid "Select Yes/No option to hide or show Bio."
+msgstr ""
+
+#: ../gallery-for-instagram.php:507 ../tooltip.php:176
+msgid "Load Image Counter"
+msgstr ""
+
+#: ../gallery-for-instagram.php:512
+msgid "One - 1"
+msgstr ""
+
+#: ../gallery-for-instagram.php:513
+msgid "Two - 2"
+msgstr ""
+
+#: ../gallery-for-instagram.php:514
+msgid "Three - 3"
+msgstr ""
+
+#: ../gallery-for-instagram.php:515
+msgid "Four - 4"
+msgstr ""
+
+#: ../gallery-for-instagram.php:516
+msgid "Five - 5"
+msgstr ""
+
+#: ../gallery-for-instagram.php:517
+msgid "Six - 6"
+msgstr ""
+
+#: ../gallery-for-instagram.php:518
+msgid "Seven - 7"
+msgstr ""
+
+#: ../gallery-for-instagram.php:519
+msgid "Eight - 8"
+msgstr ""
+
+#: ../gallery-for-instagram.php:520
+msgid "Nine - 9"
+msgstr ""
+
+#: ../gallery-for-instagram.php:521
+msgid "Ten - 10"
+msgstr ""
+
+#: ../gallery-for-instagram.php:525
+msgid "Choose Load Image Counter."
+msgstr ""
+
+#: ../gallery-for-instagram.php:533 ../tooltip.php:181
+msgid "Load Button Text"
+msgstr ""
+
+#: ../gallery-for-instagram.php:538
+msgid "Enter Load Button Text."
+msgstr ""
+
+#: ../gallery-for-instagram.php:546 ../tooltip.php:186
+msgid "Load Button Floating"
+msgstr ""
+
+#: ../gallery-for-instagram.php:549
+msgid " Left"
+msgstr ""
+
+#: ../gallery-for-instagram.php:550
+msgid " Center"
+msgstr ""
+
+#: ../gallery-for-instagram.php:551
+msgid " Right"
+msgstr ""
+
+#: ../gallery-for-instagram.php:553
+msgid "Select Load Button Floating."
+msgstr ""
+
+#: ../gallery-for-instagram.php:563
+msgid "Use below shortcode in any Page/Post to publish your Instagram Gallery"
+msgstr ""
+
+#: ../gallery-for-instagram.php:722 ../gallery-for-instagram.php:723
+msgid "Select Gallery to insert into post"
+msgstr ""
+
+#: ../gallery-for-instagram.php:744
+msgid "Select Instagram Gallery To Insert Into Post"
+msgstr ""
+
+#: ../gallery-for-instagram.php:759
+msgid "Insert Gallery Shortcode"
+msgstr ""
+
+#: ../gallery-for-instagram.php:762
+msgid "No Gallery found"
+msgstr ""
+
+#: ../help_and_support.php:10
+msgid "View Support Docs or Open a Ticket"
+msgstr ""
+
+#: ../help_and_support.php:63
+msgid "Here is Solution"
+msgstr ""
+
+#: ../instagram-setting-metabox.php:33
+msgid "Show In Gallery"
+msgstr ""
+
+#: ../instagram-setting-metabox.php:36
+msgid " Recent"
+msgstr ""
+
+#: ../instagram-setting-metabox.php:37
+msgid " Feeds"
+msgstr ""
+
+#: ../instagram-setting-metabox.php:38
+msgid " Likes"
+msgstr ""
+
+#: ../instagram-setting-metabox.php:40
+msgid "Select Show In Gallery."
+msgstr ""
+
+#: ../instagram-setting-metabox.php:46
+msgid "Transition Effect"
+msgstr ""
+
+#: ../instagram-setting-metabox.php:50
+msgid "Effect 1"
+msgstr ""
+
+#: ../instagram-setting-metabox.php:51
+msgid "Effect 2"
+msgstr ""
+
+#: ../instagram-setting-metabox.php:55
+msgid "Choose an animation effect apply on images after mouse hover."
+msgstr ""
+
+#: ../instagram-setting-metabox.php:63 ../tooltip.php:116
+msgid "Image Hover Color"
+msgstr ""
+
+#: ../instagram-setting-metabox.php:71
+msgid "Select any color to apply on Image Gallery."
+msgstr ""
+
+#: ../instagram-setting-metabox.php:78 ../tooltip.php:121
+msgid "Hover Text Color"
+msgstr ""
+
+#: ../instagram-setting-metabox.php:84
+msgid "Select any color to apply Text Color on Hover."
+msgstr ""
+
+#: ../instagram-setting-metabox.php:91 ../tooltip.php:126
+msgid "Text Color on Mobile"
+msgstr ""
+
+#: ../instagram-setting-metabox.php:97
+msgid "Select any color to apply Text Color on Mobile."
+msgstr ""
+
+#: ../instagram-setting-metabox.php:104 ../tooltip.php:131
+msgid "Image Hover Text Upper Case"
+msgstr ""
+
+#: ../instagram-setting-metabox.php:107
+msgid " Yes"
+msgstr ""
+
+#: ../instagram-setting-metabox.php:110
+msgid ""
+"Select Yes/No option for set Image Hover Text in Uppercase or lowercase."
+msgstr ""
+
+#: ../instagram-setting-metabox.php:117 ../tooltip.php:136
+msgid "Show Image Label"
+msgstr ""
+
+#: ../instagram-setting-metabox.php:123
+msgid "Select Yes/No option to hide or show label on image."
+msgstr ""
+
+#: ../instagram-setting-metabox.php:130 ../tooltip.php:141
+msgid "Show Date"
+msgstr ""
+
+#: ../instagram-setting-metabox.php:136
+msgid "Select Yes/No option to hide or show Date on image."
+msgstr ""
+
+#: ../instagram-setting-metabox.php:143 ../tooltip.php:146
+msgid "Show Like"
+msgstr ""
+
+#: ../instagram-setting-metabox.php:149
+msgid "Select Yes/No option to hide or show Like on image."
+msgstr ""
+
+#: ../instagram-setting-metabox.php:156 ../tooltip.php:151
+msgid "Show Comment"
+msgstr ""
+
+#: ../instagram-setting-metabox.php:162
+msgid "Select Yes/No option to hide or show Comment on image."
+msgstr ""
+
+#: ../instagram-setting-metabox.php:169 ../tooltip.php:156
+msgid "Gallery Layout"
+msgstr ""
+
+#: ../instagram-setting-metabox.php:174
+msgid "Two Column"
+msgstr ""
+
+#: ../instagram-setting-metabox.php:175
+msgid "Three Column"
+msgstr ""
+
+#: ../instagram-setting-metabox.php:179
+msgid "Choose a column layout for image gallery."
+msgstr ""
+
+#: ../instagram-setting-metabox.php:186 ../tooltip.php:161
+msgid "Color Opacity"
+msgstr ""
+
+#: ../instagram-setting-metabox.php:192
+msgid "Choose hover color opacity on images."
+msgstr ""
+
+#: ../instagram-setting-metabox.php:199 ../tooltip.php:166
+msgid "Font Style"
+msgstr ""
+
+#: ../instagram-setting-metabox.php:224
+msgid "Choose a caption font style."
+msgstr ""
+
+#: ../instagram-setting-metabox.php:231 ../tooltip.php:171
+msgid "Image Border"
+msgstr ""
+
+#: ../instagram-setting-metabox.php:237
+msgid "Select Yes/No option to apply border on instagram image thumbnails."
+msgstr ""
+
+#: ../instagram-setting-metabox.php:244
+msgid "Custom CSS"
+msgstr ""
+
+#: ../instagram-setting-metabox.php:248
+msgid "Enter any custom css you want to apply on this gallery."
+msgstr ""
+
+#: ../instagram-setting-metabox.php:249
+msgid "Note: Please Do Not Use <b>Style</b> Tag With Custom CSS."
+msgstr ""
+
+#: ../our_product.php:94
+msgid "Weblizar Responsive WordPress Theme"
+msgstr ""
+
+#: ../our_product.php:95
+msgid "Get The Premium, And Create your website Beautifully."
+msgstr ""
+
+#: ../our_product.php:99
+msgid "Premium Themes"
+msgstr ""
+
+#: ../our_product.php:101
+msgid "Enigma"
+msgstr ""
+
+#: ../our_product.php:102
+msgid "Weblizar"
+msgstr ""
+
+#: ../our_product.php:103
+msgid "Guardian"
+msgstr ""
+
+#: ../our_product.php:104
+msgid "Green-lantern"
+msgstr ""
+
+#: ../our_product.php:105
+msgid "Creative "
+msgstr ""
+
+#: ../our_product.php:106
+msgid "Incredible"
+msgstr ""
+
+#: ../our_product.php:110
+msgid "Premium Plugins"
+msgstr ""
+
+#: ../our_product.php:112
+msgid "Ultimate Responsive Image Slider"
+msgstr ""
+
+#: ../our_product.php:113
+msgid "Responsive Portfolio"
+msgstr ""
+
+#: ../our_product.php:114
+msgid "Responsive Photo Gallery"
+msgstr ""
+
+#: ../our_product.php:115
+msgid "Lightbox Slider"
+msgstr ""
+
+#: ../our_product.php:116
+msgid "Flickr Album Gallery"
+msgstr ""
+
+#: ../our_product.php:117
+msgid "Instagram Shortcode & Widget"
+msgstr ""
+
+#: ../our_product.php:122
+msgid ""
+"Note: More details to click on weblizar Products site link are below given "
+"view site button."
+msgstr ""
+
+#: ../our_product.php:127
+msgid "View Site"
+msgstr ""
+
+#: ../settings.php:17 ../settings.php:33 ../settings.php:49 ../settings.php:65
+#: ../settings.php:80 ../settings.php:97 ../settings.php:114
+#: ../settings.php:130 ../settings.php:147 ../settings.php:163
+msgid "Animation"
+msgstr ""
+
+#: ../settings.php:21 ../settings.php:37 ../settings.php:53 ../settings.php:84
+#: ../settings.php:101 ../settings.php:118 ../settings.php:134
+#: ../settings.php:151 ../settings.php:167
+msgid "Left to Right"
+msgstr ""
+
+#: ../settings.php:22 ../settings.php:38 ../settings.php:54 ../settings.php:85
+#: ../settings.php:102 ../settings.php:119 ../settings.php:135
+#: ../settings.php:152
+msgid "Right to Left"
+msgstr ""
+
+#: ../settings.php:23 ../settings.php:39 ../settings.php:55 ../settings.php:86
+#: ../settings.php:103 ../settings.php:120 ../settings.php:136
+#: ../settings.php:153
+msgid "Top to Bottom"
+msgstr ""
+
+#: ../settings.php:24 ../settings.php:40 ../settings.php:56 ../settings.php:87
+#: ../settings.php:104 ../settings.php:121 ../settings.php:137
+#: ../settings.php:154
+msgid "Bottom to Top"
+msgstr ""
+
+#: ../settings.php:28 ../settings.php:44 ../settings.php:60 ../settings.php:75
+#: ../settings.php:91 ../settings.php:108 ../settings.php:125
+#: ../settings.php:141 ../settings.php:158 ../settings.php:171
+msgid "Choose Animation style."
+msgstr ""
+
+#: ../settings.php:69
+msgid "Scale Up"
+msgstr ""
+
+#: ../settings.php:70
+msgid "Scale Down"
+msgstr ""
+
+#: ../settings.php:71
+msgid "Scale Down Up"
+msgstr ""
+
+#: ../tooltip.php:51
+msgid "Hide & Show Profile"
+msgstr ""
